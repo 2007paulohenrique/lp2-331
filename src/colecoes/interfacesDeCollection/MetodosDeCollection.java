@@ -7,6 +7,7 @@ import java.util.List;
 public class MetodosDeCollection {
     public static void main(String[] args) {
         // principais metodos de Collenction
+        // para List, Set e Queue
 
         // para exemplo, serao usados ArrayLists e um Object qualquer
 
