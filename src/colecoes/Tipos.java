@@ -10,14 +10,10 @@ import java.util.Queue;
 import java.util.Set;
 //import java.util.TreeSet;
 
-// interfaces sao um conjunto de regras que devem ser seguidas pelas classes que a implementarem 
-// nao podem ser instanciadas
-// interface collection - colecoes sao agrupamentos de objetos
+// interface collection - colecoes - agrupamentos de objetos
 
 public class Tipos {
-    /**
-     * @param args
-     */
+
     @SuppressWarnings("unused")
     public static void main(String[] args) {
         // interfaces de Collection
