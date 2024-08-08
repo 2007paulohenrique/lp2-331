@@ -1,4 +1,4 @@
-package colecoes.interfacesDeCollection;
+package Collections.tiposESeusMetodos;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

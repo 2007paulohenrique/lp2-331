@@ -1,4 +1,4 @@
-package colecoes.interfacesDeCollection;
+package Collections.tiposESeusMetodos;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -6,8 +6,9 @@ import java.util.List;
 
 public class MetodosDeCollection {
     public static void main(String[] args) {
-        // principais metodos de Collenction
+        // principais metodos comuns das interfaces de Collection abaixo
         // para List, Set e Queue
+        // Map possui metodos diferentes
 
         // para exemplo, serao usados ArrayLists e um Object qualquer
 

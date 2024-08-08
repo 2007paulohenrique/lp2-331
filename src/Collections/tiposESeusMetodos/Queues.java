@@ -1,4 +1,4 @@
-package colecoes.interfacesDeCollection;
+package Collections.tiposESeusMetodos;
 
 import java.util.PriorityQueue;
 import java.util.Queue;
