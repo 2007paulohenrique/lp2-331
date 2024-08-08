@@ -68,6 +68,7 @@ public class Lists {
 
         // procura por um valor numa lista ordenada de forma crescente e retorna sua posicao
         // caso a lista esteja ordenada de forma decrescente, a posicao retornada sera incorreta
+        Collections.sort(arrayList);
         System.out.println(Collections.binarySearch(arrayList, "baba"));
 
         // inverte a ordem dos elementos
