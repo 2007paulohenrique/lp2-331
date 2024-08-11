@@ -24,7 +24,7 @@ public class Aluno implements Comparable<Aluno> {
     public int compareTo(Aluno aluno) {
         // caso eu compare numeros, a ordenacao sera por ordem numerica (do menor pro maior)
         // caso eu compare strings, a ordenacao sera por ordem alfabetica (do menor pro maior)
-        // para inverter a ordem (do maior pro menor):
+        // para inverter a ordem (do maior pro menor), basta trocar os atributos comparados de posição:
         // return aluno.getNome().compareTo(this.nome);
 
         return this.nome.compareTo(aluno.getNome());

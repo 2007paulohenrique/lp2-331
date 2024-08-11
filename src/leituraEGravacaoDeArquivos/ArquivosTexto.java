@@ -6,7 +6,6 @@ import java.io.IOException;
 
 public class ArquivosTexto {
     public static void main(String[] args) {
-        // Stream de dados - dados gerados continuamente por milhares de fontes de dados diferentes
         // Stream de caracteres - compostos apenas de caracteres e organizados em linhas
 
         // modo texto - classes abstratas Reader e Writer
@@ -14,11 +13,6 @@ public class ArquivosTexto {
 
         FileReader re = null;
         FileWriter wr = null;
-
-        // try, catch e finally - usado para tratar excecoes
-        // try - trabalhar com o arquivo
-        // catch - tratar excecoes
-        // finally - fechar o FileReader ou FileWriter
 
          
         // Writer - metodos:
